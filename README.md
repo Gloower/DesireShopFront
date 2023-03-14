@@ -6,18 +6,18 @@
   </a>
 </p>
 
-## Template de uma loja em ReactJs
+### Template de uma loja em ReactJs
 
 <li>Criado components, models, pages, service e store do site. (Ainda sendo feito!!!!)
 
 
 
-## Observação
+### Observação
 
 <li>Esse código foi feito para template, caso tenha alguma contribuição faça um fork. <3
 <li>Caso encontre algum bug, me chame no discord: Gloower#0001
 
-## Como contribuir
+### Como contribuir
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são **extremamente apreciadas**
 
@@ -26,3 +26,11 @@ são **extremamente apreciadas**
 3. Realize o Commit (`git commit -m 'Add some featureBraba'`)
 4. Realize o Push no Branch (`git push origin feature/featureBraba`)
 5. Abra um Pull Request
+  
+### Autor
+
+- **Gloower** - _Developer & Member of He4rt Developers_ - [Github](https://github.com/Gloower)
+
+
+
+<p align="center">Made with 💜</p>
